@@ -1,2 +1,5 @@
 # hello-world
-This is my attempt at figuring all of this out
+
+Hello,
+
+I am a live audio engineer and a student studying IoT.
